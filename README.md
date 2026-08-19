@@ -52,7 +52,7 @@ For each problem, I try to include:
 ### Languages
 
 * Python
-* Java
+
 
 ### Topics
 
