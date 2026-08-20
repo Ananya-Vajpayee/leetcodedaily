@@ -1,0 +1,18 @@
+https://leetcode.com/problems/find-the-largest-almost-missing-integer/
+class Solution:
+    def largestInteger(self, nums: List[int], k: int) -> int:
+        n = len(nums)
+
+        if k == n:
+            return max(nums)
+
+        if k == 1:
+            candidates = [x for x in nums if nums.count(x) == 1]
+        else:
+            candidates = []
+            if nums.count(nums[0]) == 1:
+                candidates.append(nums[0])
+            if nums.count(nums[-1]) == 1:
+                candidates.append(nums[-1])
+
+        return max(candidates) if candidates else -1
