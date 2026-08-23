@@ -1,0 +1,10 @@
+https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/?envType=daily-question&envId=2026-08-23
+class Solution:
+    def checkDivisibility(self, n: int) -> bool:
+        s = 0
+        p = 1
+        for c in str(n):
+            d = int(c)
+            s += d
+            p *= d
+        return n % (s + p) == 0
