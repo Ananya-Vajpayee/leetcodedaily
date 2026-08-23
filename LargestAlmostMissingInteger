@@ -1,0 +1,12 @@
+class Solution:
+    def largestInteger(self, nums: list[int], k: int) -> int:
+        n = len(nums)
+        windows = [set(nums[i:i+k]) for i in range(n - k + 1)]
+        
+        best = -1
+        for x in set(nums):
+            count = sum(1 for w in windows if x in w)
+            if count == 1:
+                best = max(best, x)
+        
+        return best
