@@ -1,0 +1,40 @@
+https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/
+class Solution:
+    def lexPalindromicPermutation(self, s: str, target: str) -> str:
+        n = len(s)
+        cnt = [0] * 26
+        for ch in s: cnt[ord(ch) - 97] += 1
+        odd = [c for c in range(26) if cnt[c] & 1]
+        if len(odd) != (n & 1): return ""
+        mid = odd[0] if n & 1 else -1
+        half = [c // 2 for c in cnt]
+        L = n // 2
+
+        def build(h, R):
+            if n & 1: return h + chr(mid + 97) + h[::-1]
+            return h + h[::-1]
+
+        # try exact match of the free half
+        R = half[:]
+        for ch in target[:L]: R[ord(ch) - 97] -= 1
+        if all(x == 0 for x in R):
+            h = target[:L]
+            tail = h[::-1] + (chr(mid + 97) if n & 1 else "")
+            if n & 1:
+                if mid > ord(target[L]) - 97: return build(h, R)
+                if mid == ord(target[L]) - 97 and h[::-1] > target[L+1:]: return build(h, R)
+            elif h[::-1] > target[L:]:
+                return build(h, R)
+
+        # pivot search over free half
+        R = half[:]
+        for ch in target[:L-1]: R[ord(ch) - 97] -= 1
+        for j in range(L - 1, -1, -1):
+            if all(x >= 0 for x in R):
+                for c in range(ord(target[j]) - 97 + 1, 26):
+                    if R[c] > 0:
+                        R[c] -= 1
+                        h = target[:j] + chr(c + 97) + ''.join(chr(k + 97) * R[k] for k in range(26))
+                        return build(h, R)
+            if j: R[ord(target[j - 1]) - 97] += 1
+        return ""
