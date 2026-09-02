@@ -1,0 +1,84 @@
+https://leetcode.com/problems/construct-uniform-parity-array-i/
+You are given an array nums1 of n distinct integers.
+
+You want to construct another array nums2 of length n such that the elements in nums2 are either all odd or all even.
+
+For each index i, you must choose exactly one of the following (in any order):
+
+nums2[i] = nums1[i]
+nums2[i] = nums1[i] - nums1[j], for an index j != i
+Return true if it is possible to construct such an array, otherwise, return false.
+
+ 
+
+Example 1:
+
+Input: nums1 = [2,3]
+
+Output: true
+
+Explanation:
+
+Choose nums2[0] = nums1[0] - nums1[1] = 2 - 3 = -1.
+Choose nums2[1] = nums1[1] = 3.
+nums2 = [-1, 3], and both elements are odd. Thus, the answer is true​​​​​​​.
+Example 2:
+
+Input: nums1 = [4,6]
+
+Output: true
+
+Explanation:​​​​​​​
+
+Choose nums2[0] = nums1[0] = 4.
+Choose nums2[1] = nums1[1] = 6.
+nums2 = [4, 6], and all elements are even. Thus, the answer is true.
+
+
+class Solution:
+    def uniformArray(self, nums1: list[int]) -> bool:
+        n=len(nums1)
+        parity = [x % 2 for x in nums1]
+        cnt = [parity.count(0), parity.count(1)]
+        for target in (0, 1):
+            ok = True
+            for i in range(n):
+                q = parity[i]
+                if q == target:
+                    continue  # nums2[i] = nums1[i] works directly
+                # need some j != i with parity[j] == target ^ q
+                need = target ^ q
+                have = cnt[need] - (1 if q == need else 0)  # exclude self if it counts
+                if have <= 0:
+                    ok = False
+                    break
+            if ok:
+                return True
+
+
+
+#ALSO LMAO 
+class Solution:
+    def uniformArray(self, nums1: list[int]) -> bool:
+        return True
+
+That works because the answer is **always `true`** for this problem — no matter what `nums1` is.
+
+**Why:** For each index `i`, `nums2[i]`'s parity is either:
+- `parity(nums1[i])` (direct copy), or
+- `parity(nums1[i]) XOR parity(nums1[j])` for some `j ≠ i` (since parity of a difference equals parity of a sum, mod 2).
+
+Pick a target parity `t` (try even, i.e. `t = 0`). For each index `i`:
+- If `nums1[i]` already has parity `t`, use the direct copy — no problem.
+- If not, you need some `j ≠ i` with `parity(nums1[j]) XOR parity(nums1[i]) = t`. Since `parity(nums1[i]) ≠ t`, this simplifies to needing some `j` whose parity **already equals** `t`.
+
+So the only requirement to hit target `t` is: **at least one element in the array already has parity `t`**. And since every index that's off-target automatically differs in parity from every on-target element, `j ≠ i` is guaranteed for free.
+
+Now consider the two possible targets, `t = 0` (even) and `t = 1` (odd):
+- If there's at least one even number, target-even works.
+- If there's at least one odd number, target-odd works.
+- Since `n ≥ 1`, every element is either even or odd, so **at least one of these two conditions must hold** — meaning at least one of the two targets is always achievable.
+
+Therefore it's provably always possible to construct such an array, and `return true;` is a correct (if slightly cheeky) solution — that's why it got 999/999 and 100% runtime, since it does zero work. 😄
+
+This is presumably "Construct Uniform Parity Array **I**" (the easy version) — there's likely a harder **II** variant with an added constraint (like a length limit or minimizing something) where the trivial "always true" trick no longer applies.
