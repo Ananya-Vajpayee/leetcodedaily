@@ -1,0 +1,8 @@
+[3876. Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/)
+class Solution:
+    def uniformArray(self, nums1: list[int]) -> bool:
+        odds = [x for x in nums1 if x % 2 == 1]
+        if not odds:
+            return True
+        mn_odd = min(odds)
+        return not any(x % 2 == 0 and x < mn_odd for x in nums1)
