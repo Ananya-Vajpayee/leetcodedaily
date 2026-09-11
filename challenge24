@@ -1,0 +1,14 @@
+https://leetcode.com/problems/unique-3-digit-even-numbers/
+
+class Solution:
+    def totalNumbers(self, digits: list[int]) -> int:
+        from collections import Counter
+        avail = Counter(digits)
+        count = 0
+
+        for n in range(100, 999, 2):  # even, 3-digit
+            need = Counter(str(n))
+            if all(avail[int(d)] >= need[d] for d in need):
+                count += 1
+
+        return count
