@@ -87,6 +87,7 @@ You can find my LeetCode practice and solutions on my profile.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0088-merge-sorted-array/) | Easy |
@@ -95,6 +96,7 @@ You can find my LeetCode practice and solutions on my profile.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0035-search-insert-position/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Two Pointers
@@ -117,6 +119,7 @@ You can find my LeetCode practice and solutions on my profile.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
