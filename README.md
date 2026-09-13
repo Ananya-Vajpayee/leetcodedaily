@@ -89,6 +89,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0088-merge-sorted-array/) | Easy |
@@ -114,6 +115,7 @@ You can find my LeetCode practice and solutions on my profile.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0066-plus-one/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -171,5 +173,6 @@ You can find my LeetCode practice and solutions on my profile.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0048-rotate-image/) | Medium |
 | [0835-image-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
