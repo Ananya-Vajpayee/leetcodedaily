@@ -184,4 +184,12 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0054-spiral-matrix/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
