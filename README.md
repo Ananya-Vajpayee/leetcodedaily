@@ -98,6 +98,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0189-rotate-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0189-rotate-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0835-image-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0835-image-overlap/) | Medium |
+| [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -189,10 +190,12 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0796-rotate-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0796-rotate-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
