@@ -94,6 +94,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0088-merge-sorted-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0835-image-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0835-image-overlap/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -167,4 +168,8 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0051-n-queens/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
