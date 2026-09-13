@@ -97,6 +97,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0189-rotate-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0189-rotate-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0835-image-overlap/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -200,4 +201,12 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1486-xor-operation-in-an-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
