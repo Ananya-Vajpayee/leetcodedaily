@@ -128,11 +128,13 @@ You can find my LeetCode practice and solutions on my profile.
 | [0189-rotate-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0189-rotate-array/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0836-rectangle-overlap/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0118-pascals-triangle/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Divide and Conquer
@@ -217,6 +219,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +232,5 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
