@@ -120,6 +120,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0088-merge-sorted-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -205,6 +206,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +235,7 @@ You can find my LeetCode practice and solutions on my profile.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
