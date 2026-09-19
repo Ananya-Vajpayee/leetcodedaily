@@ -130,6 +130,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0066-plus-one](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0189-rotate-array/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Dynamic Programming
@@ -232,6 +233,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
