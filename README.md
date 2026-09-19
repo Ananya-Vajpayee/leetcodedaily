@@ -98,6 +98,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0118-pascals-triangle](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0189-rotate-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0835-image-overlap/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -129,6 +130,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0062-unique-paths](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0189-rotate-array/) | Medium |
+| [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -138,6 +140,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0118-pascals-triangle/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -244,4 +247,20 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0062-unique-paths/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
