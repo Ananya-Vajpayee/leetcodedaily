@@ -105,6 +105,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [1486-xor-operation-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,4 +270,8 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
