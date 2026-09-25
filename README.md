@@ -107,6 +107,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [3524-find-x-value-of-array-i](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
