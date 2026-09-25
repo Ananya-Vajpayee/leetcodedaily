@@ -124,6 +124,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0088-merge-sorted-array/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Math
@@ -198,6 +199,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0051-n-queens/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0796-rotate-string/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -234,6 +237,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Prefix Sum
@@ -276,4 +280,12 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
