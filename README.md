@@ -225,6 +225,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0796-rotate-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -294,8 +295,13 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
