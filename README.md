@@ -100,6 +100,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0229-majority-element-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
+| [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0835-image-overlap/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -116,6 +117,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0035-search-insert-position/) | Easy |
+| [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -165,6 +167,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +300,7 @@ You can find my LeetCode practice and solutions on my profile.
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -322,4 +326,20 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0229-majority-element-ii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
