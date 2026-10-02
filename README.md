@@ -97,6 +97,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -128,6 +129,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0088-merge-sorted-array/) | Easy |
+| [0229-majority-element-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0229-majority-element-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -248,6 +250,7 @@ You can find my LeetCode practice and solutions on my profile.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -311,4 +314,12 @@ You can find my LeetCode practice and solutions on my profile.
 | [0020-valid-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0229-majority-element-ii/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
