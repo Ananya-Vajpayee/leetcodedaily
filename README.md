@@ -237,6 +237,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0032-longest-valid-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0856-score-of-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -313,6 +314,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0020-valid-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0856-score-of-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Breadth-First Search
@@ -326,6 +328,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0022-generate-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
