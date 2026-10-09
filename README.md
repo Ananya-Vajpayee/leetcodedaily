@@ -250,6 +250,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -290,6 +291,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0678-valid-parenthesis-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -329,6 +331,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [1021-remove-outermost-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +348,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
