@@ -109,6 +109,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -382,4 +383,8 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
