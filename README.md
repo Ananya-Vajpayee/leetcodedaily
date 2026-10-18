@@ -106,6 +106,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -156,6 +157,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0836-rectangle-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -171,6 +173,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -181,23 +184,27 @@ You can find my LeetCode practice and solutions on my profile.
 | [0004-median-of-two-sorted-arrays](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +323,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0062-unique-paths/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -404,4 +412,16 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
