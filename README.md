@@ -188,6 +188,7 @@ You can find my LeetCode practice and solutions on my profile.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -201,6 +202,7 @@ You can find my LeetCode practice and solutions on my profile.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -353,6 +355,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -424,4 +427,8 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
