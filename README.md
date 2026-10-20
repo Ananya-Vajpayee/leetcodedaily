@@ -121,6 +121,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,6 +421,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
