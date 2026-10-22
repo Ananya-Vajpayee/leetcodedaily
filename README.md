@@ -122,6 +122,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
