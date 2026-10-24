@@ -1,0 +1,15 @@
+from itertools import accumulate
+
+class Solution:
+    def countDaysTogether(self, arriveAlice: str, leaveAlice: str,
+                          arriveBob: str, leaveBob: str) -> int:
+        days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+        prefix = [0] + list(accumulate(days))  # prefix[m] = days before month m+1
+
+        def to_day(s: str) -> int:
+            m, d = int(s[:2]), int(s[3:])
+            return prefix[m - 1] + d
+
+        start = max(to_day(arriveAlice), to_day(arriveBob))
+        end = min(to_day(leaveAlice), to_day(leaveBob))
+        return max(0, end - start + 1)
