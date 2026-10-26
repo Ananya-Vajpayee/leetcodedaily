@@ -120,6 +120,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -258,6 +259,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0048-rotate-image](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0054-spiral-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0835-image-overlap/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +380,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1096-brace-expansion-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +432,7 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,4 +445,5 @@ You can find my LeetCode practice and solutions on my profile.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
