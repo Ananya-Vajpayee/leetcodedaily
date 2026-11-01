@@ -99,6 +99,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0189-rotate-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -160,6 +161,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0062-unique-paths](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0189-rotate-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
