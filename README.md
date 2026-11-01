@@ -239,6 +239,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [2409-count-days-spent-together](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,4 +453,12 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
