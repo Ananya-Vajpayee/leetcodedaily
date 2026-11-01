@@ -124,6 +124,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
@@ -198,6 +199,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +294,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [2409-count-days-spent-together](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -303,6 +307,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [1486-xor-operation-in-an-array](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +373,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +420,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [0493-reverse-pairs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0493-reverse-pairs/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +460,7 @@ You can find my LeetCode practice and solutions on my profile.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
