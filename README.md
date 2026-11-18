@@ -293,6 +293,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
