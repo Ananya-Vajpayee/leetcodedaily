@@ -293,6 +293,7 @@ You can find my LeetCode practice and solutions on my profile.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ananya-Vajpayee/leetcodedaily/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
